@@ -3,7 +3,7 @@
 Click2Contact is an innovative application designed to simplify networking by instantly capturing and organizing business card details, eliminating manual data entry hassle. This app enhances contact management efficiency, allowing professionals to focus on what matters most: building relationships and driving business growth.
 
 # Table of Contents
-   - [Technologies Used](#Technologies Used)
+   - [Technologies Used](#technologies-used)
    - Features
    - Getting Started
       - Clone Repository
