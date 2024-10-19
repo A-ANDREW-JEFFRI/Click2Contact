@@ -17,8 +17,6 @@ Click2Contact is an innovative application designed to simplify networking by in
       - Expo
       - React Native
    - Backend:
-      - Expo
-      - React Native
       - Express
       - Axios
       - Multer
