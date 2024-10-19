@@ -10,7 +10,7 @@ Click2Contact is an innovative application designed to simplify networking by in
       - [Create an Expo App](#create-an-expo-aApp)
       - [Install All Dependencies](#install-all-dependencies)
       - [Setup Environment Variables](#setup-environment-variables)
-      - [Start the App](start-the-pp)
+      - [Start the App](#start-the-pp)
      
 # Technologies Used
    - Frontend:
