@@ -8,7 +8,7 @@ This app simplifies networking by instantly capturing and organizing business ca
 
 ## Clone Repository
    - Creates a new file.
-      - git clone <Repository_Link>
+   ```git clone <Repository_Link>
 
 ## Create an Expo App
    - npm install expo
