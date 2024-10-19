@@ -18,7 +18,7 @@ Click2Contact is an innovative application designed to simplify networking by in
       - [React Native](https://reactnative.dev/docs/getting-started)
    - Backend:
       - [Express](https://expressjs.com/)
-      -[Axios](https://axios-http.com/docs/intro)
+      - [Axios](https://axios-http.com/docs/intro)
       - [Multer](https://www.npmjs.com/package/multer)
       - [CORS](https://www.npmjs.com/package/cors)
       - [Dotenv](https://www.npmjs.com/package/dotenv)
