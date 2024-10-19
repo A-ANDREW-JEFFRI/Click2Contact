@@ -13,11 +13,12 @@ This app simplifies networking by instantly capturing and organizing business ca
    ```
 
 ## Create an Expo App
-```
-   - npm install expo
-   - npx create-expo-app NAME_OF_THE_APP
-```
-
+   ```
+      npm install expo
+   ```
+   ```
+      npx create-expo-app NAME_OF_THE_APP
+   ```
 ## Install all dependencies
    - npx expo install expo-image-picker
    - npx expo install @expo/vector-icons
