@@ -1,58 +1,88 @@
-# Welcome to click2contact App 🖐️
-This app simplifies networking by instantly capturing and organizing business card details, eliminating manual data entry. It enhances efficiency in managing contacts, ensuring professionals can focus on building relationships. With streamlined access to key connections, users can drive business growth effortlessly.
 
-## Technologies used
-   - [Expo](https://docs.expo.dev/)
-   - [React Native](https://reactnative.dev/docs/getting-started)
-   - [Express](https://expressjs.com/)
+# Welcome to Click2Contact App 🖐️
+Click2Contact is an innovative application designed to simplify networking by instantly capturing and organizing business card details, thereby eliminating the hassle of manual data entry. This app enhances contact management efficiency, allowing professionals to focus on what matters most: building relationships and driving business growth.
 
+# Table of Contents
+   - Technologies Used
+   - Features
+   - Getting Started
+      - Clone Repository
+      - Create an Expo App
+      - Install All Dependencies
+      - Setup Environment Variables
+      - Start the App
+     
+# Technologies Used
+   - Frontend:
+      - Expo
+      - React Native
+   - Backend:
+      - Expo
+      - React Native
+      - Express
+      - Axios
+      - Multer
+      - CORS
+      - Dotenv
+
+# Features
+   - Instant capture of business card details
+   - Automatic organization of contacts
+   - Streamlined user interface for easy navigation
+   - Integration with OpenAI for enhanced functionalities
+
+# Getting Started
+## Prerequisites
+   - Node.js installed on your machine.
+   - An OpenAI account for API access.
+     
 ## Clone Repository
-   - Creates a new file.
-   ```
-      git clone <Repository_Link>
-   ```
+To clone the repository, run:
+```
+   git clone <Repository_Link>
+```
 
 ## Create an Expo App
-   ```
-      npm install expo
-      npx create-expo-app NAME_OF_THE_APP
-   ```
-## Install all dependencies
+To create a new Expo app, execute:
 ```
-   npx expo install expo-image-picker
-   npx expo install @expo/vector-icons
-   npx expo install expo-permissions
-   npm install react-native-contacts
-   npm install typescript @types/react @types/react-native
-   npm install @react-native-async-storage/async-storage
-   npm install express
-   npm install multer
-   npm install cors
-   npm install dotenv
-   npm install axios
+npm install expo
+npx create-expo-app NAME_OF_THE_APP
 ```
 
-What do you need to run this on your environment?
-   - To run this on your environment, you'll need to set up an OpenAI account and generate an API key. Once you have the key, integrate it into your application to access OpenAI's capabilities seamlessly.
-   - Path: backend -> .env
+## Install All Dependencies
+Navigate to your project directory and run the following commands to install the necessary dependencies:
 ```
-   OPENAI_API_KEY= <Your_Key>
+npx expo install expo-image-picker
+npx expo install @expo/vector-icons
+npx expo install expo-permissions
+npm install react-native-contacts
+npm install typescript @types/react @types/react-native
+npm install @react-native-async-storage/async-storage
+npm install express
+npm install multer
+npm install cors
+npm install dotenv
+npm install axios
 ```
 
+## Setup Environment Variables
+To integrate OpenAI's capabilities, set up your API key. Create a .env file in the backend directory with the following content:
+```
+OPENAI_API_KEY=<Your_Key>
+```
 ## Start the App
    - Open two terminal windows.
-   - Navigate to the Expo project directory by running
-```
-     cd expo_file_name
-```
-   - In the first terminal, run the command
+   - Navigate to the Expo project directory:
    ```
-     node script.js
-```
-   - In the second terminal, run the command
-     ```
-       npx expo prebuild
-       npx expo run:android --device
-     ```
+   cd expo_file_name
+   ```
+   - In the first terminal, start the Express server:
+   ```
+   node script.js
+   ```
+   - In the second terminal, run the Expo prebuild and launch the app on your device:
+   ```
+   npx expo prebuild
+   npx expo run:android --device
+   ```
    - The app will launch directly on your phone.
-
