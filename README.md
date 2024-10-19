@@ -1,6 +1,6 @@
 
 # Welcome to Click2Contact App 🖐️
-Click2Contact is an innovative application designed to simplify networking by instantly capturing and organizing business card details, thereby eliminating the hassle of manual data entry. This app enhances contact management efficiency, allowing professionals to focus on what matters most: building relationships and driving business growth.
+Click2Contact is an innovative application designed to simplify networking by instantly capturing and organizing business card details, eliminating manual data entry hassle. This app enhances contact management efficiency, allowing professionals to focus on what matters most: building relationships and driving business growth.
 
 # Table of Contents
    - Technologies Used
@@ -14,14 +14,14 @@ Click2Contact is an innovative application designed to simplify networking by in
      
 # Technologies Used
    - Frontend:
-      - Expo
-      - React Native
+      - [Expo](https://docs.expo.dev/)
+      - [React Native](https://reactnative.dev/docs/getting-started)
    - Backend:
-      - Express
-      - Axios
-      - Multer
-      - CORS
-      - Dotenv
+      - [Express](https://expressjs.com/)
+      -[Axios](https://axios-http.com/docs/intro)
+      - [Multer](https://www.npmjs.com/package/multer)
+      - [CORS](https://www.npmjs.com/package/cors)
+      - [Dotenv](https://www.npmjs.com/package/dotenv)
 
 # Features
    - Instant capture of business card details
