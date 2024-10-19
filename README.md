@@ -6,6 +6,10 @@ This app simplifies networking by instantly capturing and organizing business ca
    - [React Native](https://reactnative.dev/docs/getting-started)
    - [Express](https://expressjs.com/)
 
+## Clone Repository
+   - Creates a new file.
+      - git clone <Repository_Link>
+
 ## Create an Expo App
    - npm install expo
    - npx create-expo-app NAME_OF_THE_APP
@@ -29,6 +33,3 @@ This app simplifies networking by instantly capturing and organizing business ca
        - npx expo run:android --device
    - The app will launch directly on your phone.
 
-## Clone Repository
-   - Creates a new file.
-      - git clone <Repository_Link>
