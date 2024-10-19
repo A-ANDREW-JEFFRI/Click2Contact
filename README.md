@@ -32,6 +32,13 @@ This app simplifies networking by instantly capturing and organizing business ca
    npm install axios
 ```
 
+What do you need to run this on your environment?
+   - To run this on your environment, you'll need to set up an OpenAI account and generate an API key. Once you have the key, integrate it into your application to access OpenAI's capabilities seamlessly.
+   - Path: backend -> .env
+```
+   OPENAI_API_KEY= <Your_Key>
+```
+
 ## Start the App
    - Open two terminal windows.
    - Navigate to the Expo project directory by running
