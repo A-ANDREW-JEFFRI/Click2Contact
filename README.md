@@ -12,9 +12,11 @@ This app simplifies networking by instantly capturing and organizing business ca
       git clone <Repository_Link>
    ```
 
-## Create an ** Expo App **
+## Create an Expo App
+```
    - npm install expo
    - npx create-expo-app NAME_OF_THE_APP
+```
 
 ## Install all dependencies
    - npx expo install expo-image-picker
