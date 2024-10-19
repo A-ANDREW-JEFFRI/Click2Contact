@@ -24,14 +24,14 @@ This app simplifies networking by instantly capturing and organizing business ca
    npx expo install expo-image-picker
    npx expo install @expo/vector-icons
    npx expo install expo-permissions
-   - npm install react-native-contacts
-   - npm install typescript @types/react @types/react-native
-   - npm install @react-native-async-storage/async-storage
-   - npm install express
-   - npm install multer
-   - npm install cors
-   - npm install dotenv
-   - npm install axios
+   npm install react-native-contacts
+   npm install typescript @types/react @types/react-native
+   npm install @react-native-async-storage/async-storage
+   npm install express
+   npm install multer
+   npm install cors
+   npm install dotenv
+   npm install axios
 ```
 
 ## Start the App
